@@ -1,0 +1,4 @@
+1) Have a special regime for analitics about efficiency of algoritm.
+In this regime average and median of guessing all numbers counted
+2) If program understand, that you make a mistake (there are no any possible answers which suits under all your answers), it will answer you about all
+your answers, are they true or not. If not, you will reAnswer and program uses your new answers for determination of your answer
